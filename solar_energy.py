@@ -92,7 +92,6 @@ for i in range(3):
         t.right(90)
     t.end_fill()
     t.penup()
-
 t.right(90)
 t.forward(200)
 t.left(90)
