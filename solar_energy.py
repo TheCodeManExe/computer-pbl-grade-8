@@ -1,0 +1,10 @@
+import turtle
+t = turtle.Turtle()
+t.speed(0)
+t.pensize(10)
+t.penup()
+t.goto(0,-500)
+t.pendown()
+t.left(90)
+t.goto(0, 400)
+turtle.done()
